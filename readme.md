@@ -6,6 +6,11 @@ le pavé numerique est en `9, 8, 7, 6` pour les colonnes et `13, 12, 11, 10` pou
 
 ![pavé numerique refait](image/keypad-4x4-principle_1.jpg.png)
 
+Qui donne:
+![vue deriere](image/vuederiere.jpg)
+
+![cablage](image/vuedevant.jpg)
+
 les leds (grove):
  * rouge => `4`
  * verte => `3`

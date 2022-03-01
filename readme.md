@@ -3,6 +3,7 @@
 Nous avons fait un digicode avec Arduino ainsi qu'un lampe automatique qui S'il fait nuit(ou il y a peu de lumiere) et qu'il y a un mouvement une lampe éclaire le digicode 
 ## Brancheent
 le pavé numerique est en `9, 8, 7, 6` pour les colonnes et `13, 12, 11, 10` pour les lignes 
+
 les leds (grove):
  * rouge => `4`
  * verte => `3`

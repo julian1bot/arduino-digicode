@@ -4,6 +4,8 @@ Nous avons fait un digicode avec Arduino ainsi qu'un lampe automatique qui S'il 
 ## Branchement
 le pavé numerique est en `9, 8, 7, 6` pour les colonnes et `13, 12, 11, 10` pour les lignes 
 
+![pavé numerique refait](image/keypad-4x4-principle_1.jpg.png)
+
 les leds (grove):
  * rouge => `4`
  * verte => `3`
@@ -17,6 +19,13 @@ les capteurs (grove):
 l'écran  (grove):
 
  * lcd => `I2C`
+
+## image du projet
+
+![cablage](image/cablage.jpg)
+
+![sur pc monitor](image/surmoniteur.jpg)
+
 
 
 ## Modules utilisés

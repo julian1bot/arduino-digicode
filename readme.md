@@ -1,10 +1,26 @@
 # Digicode
 
 Nous avons fait un digicode avec Arduino ainsi qu'un lampe automatique qui S'il fait nuit(ou il y a peu de lumiere) et qu'il y a un mouvement une lampe éclaire le digicode 
+## Brancheent
+le pavé numerique est en 9, 8, 7, 6 pour les colonnes et 13, 12, 11, 10 pour les lignes 
+les leds (grove):
+ * rouge => 4
+ * verte => 3
+ * branche => 5
 
-## modules utilisés
+les capteurs (grove):
+ 
+ * mouvement => 2
+ * luminosité => A1
 
- * [Grove]( https://wiki.seeedstudio.com/Grove_System/) qui permets des branchement simple avec les composants (plug-and-play)
+l'écran  (grove):
+
+ * lcd => I2C
+
+
+## Modules utilisés
+
+ * [Grove]( https://wiki.seeedstudio.com/Grove_System/) qui permets des branchement simple avec les composants ()
 
  * [Keypad]( https://playground.arduino.cc/Code/Keypad/) qui permets d'utilisé un pavé numerique de 4x4
 
